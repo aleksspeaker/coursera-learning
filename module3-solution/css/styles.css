@@ -106,4 +106,6 @@ a.nav-link:hover {
 button.btn {
 	float: right;
 	right: 0;
+	background: rgba(0,0,0,.5);
+	border: 0;
 }
