@@ -13,7 +13,7 @@ body {
   position: fixed;
   right: 0;
   z-index: -1;
-  margin-top: -65px;
+  margin-top: -200px;
 }
 
 
@@ -23,7 +23,7 @@ nav.navbar {
 }
 
 h1 {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(255, 255, 255, .95);
     text-align: center;
     padding-top: 20px;
     padding-bottom: 10px;
