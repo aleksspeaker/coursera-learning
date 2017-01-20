@@ -103,3 +103,7 @@ span#LLC {
 a.nav-link:hover {
     background: #fafafa;
 }
+button.btn {
+	float: right;
+	right: 0;
+}
